@@ -1,0 +1,9 @@
+{
+"name": "git-exercise-project",
+"version": "1.0.0",
+"description": "Git exercise project",
+"main": "src/index.js",
+"scripts": {
+"test": "echo \"Running tests\" && exit 0"
+}
+}
